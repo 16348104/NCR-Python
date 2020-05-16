@@ -1,0 +1,13 @@
+.idea
+.vscode
+.gradle
+gradle
+out
+*.iml
+gradlew
+gradlew.bat
+1day/
+2day/
+3day/
+4day/
+
